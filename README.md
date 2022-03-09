@@ -1,6 +1,6 @@
 # ProyectoFinalProgramacion
 # Pregunta Problema
-¿Como el alcohol afecta en diferentes ambitos de la vida de una persona tales como el socio-economicos, psicologico y salubre?
+¿Como el alcohol afecta en los diferentes ambitos de la vida, como el socio-economico, psicologico y salubre de una persona?
 # Tabla de Contenidos
 [1. Introduccion](#introduccion)
 

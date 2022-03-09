@@ -2,14 +2,14 @@
 # Pregunta Problema
 ¿
 # Tabla de Contenidos
-[1. Introduccion] (#introduccion)
-[2. Descripcion del Problema] (#descripcion-del-problema)
-[3. Descripcion de la Solucion] (#descripcion-de-la-solucion)
-[4. Requisitos Funcionales] (#requisitos-funcionales)
-[5. Requisitos No Funcionales] (#requisitos-no-funcionales)
-[6. Diagrama Relacional] (#diagrama-relacional)
-[7. Herramientas Necesarias para el Desarrollo de la Solucion] (#herramientas-necesarias-para-el-desarrollo-de-la-solucion)
-[8. Conclusiones] (#conclusiones)
+[1. Introduccion](#introduccion)
+[2. Descripcion del Problema](#descripcion-del-problema)
+[3. Descripcion de la Solucion](#descripcion-de-la-solucion)
+[4. Requisitos Funcionales](#requisitos-funcionales)
+[5. Requisitos No Funcionales](#requisitos-no-funcionales)
+[6. Diagrama Relacional](#diagrama-relacional)
+[7. Herramientas Necesarias para el Desarrollo de la Solucion](#herramientas-necesarias-para-el-desarrollo-de-la-solucion)
+[8. Conclusiones](#conclusiones)
 
 # 1.Introduccion
 

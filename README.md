@@ -2,7 +2,7 @@
 # Pregunta Problema
 ¿Como el alcohol afecta en los diferentes ambitos de la vida, como el socio-economico, psicologico y salubre de una persona?
 # Tabla de Contenidos
-[1. Introduccion](#introduccion)
+[1. Introducción](#introducción)
 
 [2. Descripcion del Problema](#descripcion-del-problema)
 
@@ -18,13 +18,13 @@
 
 [8. Conclusiones](#conclusiones)
 
-# 1.Introduccion
+# 1.Introducción
 
-# 2.Descripcion del Problema
+# 2.Descripción del Problema
 
-# 3.Descripcion de la Solucion
+# 3.Descripción de la Solucion
 
-# 4.Requisitoa Funcionales
+# 4.Requisitos Funcionales
 
 # 5.Requisitos No Funcionales
 

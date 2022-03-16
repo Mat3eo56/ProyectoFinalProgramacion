@@ -19,9 +19,9 @@
 [8. Conclusiones](#conclusiones)
 
 # 1.Introducción
-
+A lo largo de los años Colombia ha tratado 3 problemáticas relevantes en el país, como lo son la pobreza, salud y hambruna. Dichas problemáticas tienen varios causales, sin embargo, hay uno que tienen los tres en común y son los vicios, entre estos, las bebidas alcohólicas, las cuales influyen directamente en la salud y en el entorno social y económico de la persona.  
 # 2.Descripción del Problema
-
+Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza y hambruna en el país, así como uno de los principales causantes de los problemas de salud en las personas. 
 # 3.Descripción de la Solucion
 
 # 4.Requisitos Funcionales

@@ -38,7 +38,8 @@ Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana
 # 6.Diagrama Relacional
 
 # 7.Herramientas Necesarias para el Desarrollo de la Solucion
-
+-Tinkercad (Simulaciones)
+[![Tinkercad-Simulaciones.png](https://i.postimg.cc/qRS5N4Rg/Tinkercad-Simulaciones.png)](https://postimg.cc/bD0TMX1j)
 # 8.Conclusiones
 
 

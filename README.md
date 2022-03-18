@@ -40,6 +40,10 @@ Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana
 # 7.Herramientas Necesarias para el Desarrollo de la Solucion
 -Tinkercad (Simulaciones)
 [![Tinkercad-Simulaciones.png](https://i.postimg.cc/qRS5N4Rg/Tinkercad-Simulaciones.png)](https://postimg.cc/bD0TMX1j)
+-Tinkercad (Codigo)
+[![Tikercad-code1.png](https://i.postimg.cc/DzDgg5KM/Tikercad-code1.png)](https://postimg.cc/SX6CQ6R6)
+[![Tikercad-code2.png](https://i.postimg.cc/zBgkPWzX/Tikercad-code2.png)](https://postimg.cc/hzKxXXQH)
+
 # 8.Conclusiones
 
 

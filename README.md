@@ -25,8 +25,15 @@ Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida
 # 3.Descripción de la Solucion
 Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud, su economia y entorno social.
 # 4.Requisitos Funcionales
-
+1. Realizar el circuito con el sensor MQ-3, un arduino UNO, una protoboar, leds y una buzzer
+2. Programar la tarjeta de desarrollo arduino 
+3. Llevar el registro por 5 dias de varias persona
+4. Analisar los datos para concientizar a las personas
 # 5.Requisitos No Funcionales
+1. Implementar resistencias que regulen la entrada de voltaje
+2. Tomar los valores del sensor MQ-3
+3. Implementar esacala de leds 
+4. Colocar un sonador
 
 # 6.Diagrama Relacional
 

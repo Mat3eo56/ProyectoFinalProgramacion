@@ -47,6 +47,7 @@ Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana
 
 [![Tikercad-code2.png](https://i.postimg.cc/zBgkPWzX/Tikercad-code2.png)](https://postimg.cc/hzKxXXQH)
 
+
 # 8.Conclusiones
 
 

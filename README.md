@@ -23,7 +23,7 @@ Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida
 # 3. Descripcion del Objetivo de Desarrollo Sostenible
 Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud, su economia y entorno social.
 # 4. Justificacion
-Este alcoholimetro se esta haciendo con el fin de dar una prediccion a futuro de lo que pasaria si la persona como tal invierte tanto aspectos economicos y salubres en tomar la mayor parte del tiempo alcohol, esto con el fin de prevenir el aumento excesivo de la taza de mortalidad al año ya que mueren en un promedio de 85.032 personas, en su mayor parte personas menores de 60 años;   
+Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de mortalidad que produce el consumo excesivo del alcohol al año, ya que mueren un total de 85.032 personas que da como porcentjae el 1,4% de poblacion de la poblacion afectada, en su mayor parte personas menores de 60 años; y las consecuenciqas que puede producir son principalmente la hepatitis o trastornos neuropsiquiatricos. Con este alcoholimetro se realizo con el fin de dar una prediccion a futuro de lo que pasaria si la persona como tal invierte tanto aspectos economicos y salubres en tomar alcohol la mayor parte del tiempo. 
 
 # 5.Descripcion de las tecnologias que se usaron
 - Tinkercad (Simulaciones)

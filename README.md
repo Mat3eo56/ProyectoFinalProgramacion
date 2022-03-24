@@ -6,7 +6,7 @@
 
 [2. Descripcion del Problema](#descripcion-del-problema)
 
-[3. Descripcion del Objetivo de desarrollo sostenible](#descripcion-del-objetivo-de-desarrollo-sostenible)
+[3. Descripcion del Objetivo de Desarrollo Sostenible](#descripcion-del-objetivo-de-desarrollo-sostenible)
 
 [4. Requisitos Funcionales](#requisitos-funcionales)
 
@@ -22,22 +22,12 @@
 A lo largo de los años Colombia ha tratado 3 problemáticas relevantes en el país, como lo son la pobreza, salud y hambruna. Dichas problemáticas tienen varios causales, sin embargo, hay uno que tienen los tres en común y son los vicios, entre estos, las bebidas alcohólicas, las cuales influyen directamente en la salud y en el entorno social y económico de la persona.  
 # 2.Descripción del Problema
 Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza y hambruna en el país, así como uno de los principales causantes de los problemas de salud en las personas desde tempranas edades.
-# 3.Descripción de la Solucion
+# 3. Descripcion del Objetivo de Desarrollo Sostenible
 Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud, su economia y entorno social.
-# 4.Requisitos Funcionales
-1. Realizar el circuito con el sensor MQ-3, un arduino UNO, una protoboar, leds y una buzzer
-2. Programar la tarjeta de desarrollo arduino 
-3. Llevar el registro por 5 dias de varias persona
-4. Analisar los datos para concientizar a las personas
-# 5.Requisitos No Funcionales
-1. Implementar resistencias que regulen la entrada de voltaje
-2. Tomar los valores del sensor MQ-3
-3. Implementar esacala de leds 
-4. Colocar un sonador
+# 4. Justificacion del proyecto
 
-# 6.Diagrama Relacional
 
-# 7.Herramientas Necesarias para el Desarrollo de la Solucion
+# 5.Herramientas Necesarias para el Desarrollo de la Solucion
 - Tinkercad (Simulaciones)
 [![Tinkercad-Simulaciones.png](https://i.postimg.cc/qRS5N4Rg/Tinkercad-Simulaciones.png)](https://postimg.cc/bD0TMX1j)
 

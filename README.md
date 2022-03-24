@@ -1,6 +1,6 @@
 # ProyectoFinalProgramacion
 # Pregunta Problema
-¿Como el alcohol afecta en los diferentes ambitos de la vida, como el socio-economico, psicologico y salubre de una persona?
+¿Como el alcohol afecta los ambitos economicos y salubres en la vida cotidiana?
 # Tabla de Contenidos
 [1. Introducción](#introducción)
 
@@ -12,16 +12,18 @@
 
 [5. Herramientas Necesarias para el Desarrollo de la Solucion](#herramientas-necesarias-para-el-desarrollo-de-la-solucion)
 
-[6. Conclusiones](#conclusiones)
+[6. Resultados](#resultados)
+
+[7. Conclusiones](#conclusiones)
 
 # 1.Introducción
 A lo largo de los años Colombia ha tratado 3 problemáticas relevantes en el país, como lo son la pobreza, salud y hambruna. Dichas problemáticas tienen varios causales, sin embargo, hay uno que tienen los tres en común y son los vicios, entre estos, las bebidas alcohólicas, las cuales influyen directamente en la salud y en el entorno social y económico de la persona.  
 # 2.Descripción del Problema
-Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza y hambruna en el país, así como uno de los principales causantes de los problemas de salud en las personas desde tempranas edades.
+Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza y hambruna en el país, así como uno de los principales causantes de los problemas de salud en las personas desde tempranas edades.En Colombia, la taza de mortalidad por beber en exceso es del 1,4% y la gran parte 
 # 3. Descripcion del Objetivo de Desarrollo Sostenible
 Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud, su economia y entorno social.
 # 4. Justificacion
-
+Este alcoholimetro se esta haciendo con el fin de dar una prediccion a futuro de lo que pasaria si la persona como tal invierte tanto aspectos economicos y de salubridad en tomar la mayoria del tiempo alcohol, esto con el fin de prevenir el aumento de la taza de mortalidad a causa de este, al año.  
 
 # 5.Herramientas Necesarias para el Desarrollo de la Solucion
 - Tinkercad (Simulaciones)
@@ -33,8 +35,10 @@ Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana
 
 [![Tikercad-code2.png](https://i.postimg.cc/zBgkPWzX/Tikercad-code2.png)](https://postimg.cc/hzKxXXQH)
 
+# 6.Resultados
 
-# 6.Conclusiones
-1.) 
+
+# 7.Conclusiones
+ 
 
 

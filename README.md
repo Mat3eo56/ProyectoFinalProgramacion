@@ -6,7 +6,7 @@
 
 [2. Descripcion del Problema](#descripcion-del-problema)
 
-[3. Descripcion de la Solucion](#descripcion-de-la-solucion)
+[3. Descripcion del Objetivo de desarrollo sostenible](#descripcion-del-objetivo-de-desarrollo-sostenible)
 
 [4. Requisitos Funcionales](#requisitos-funcionales)
 

@@ -12,8 +12,6 @@
 
 [5. Requisitos No Funcionales](#requisitos-no-funcionales)
 
-[6. Diagrama Relacional](#diagrama-relacional)
-
 [7. Herramientas Necesarias para el Desarrollo de la Solucion](#herramientas-necesarias-para-el-desarrollo-de-la-solucion)
 
 [8. Conclusiones](#conclusiones)

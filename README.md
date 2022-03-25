@@ -21,7 +21,7 @@ A lo largo de los años Colombia ha tratado 3 problemáticas relevantes en el pa
 # 2.Descripción del Problema
 Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza,hambruna, violencia y muerte/homicidios en el país , así como uno de los principales causantes de los problemas de salud en las personas.
 # 3. Descripcion del Objetivo de Desarrollo Sostenible
-Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud/bienestar y su vida economia.
+Se ha evidenciado que un gran porcentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud/bienestar y su vida economia.
 # 4. Justificacion
 Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de mortalidad que produce el consumo excesivo del alcohol al año, ya que mueren un total de 85.032 personas que da como porcentjae el 1,4% de población afectada, en su mayor parte personas menores de 60 años; y las consecuenciqas que puede producir son principalmente la hepatitis o trastornos neuropsiquiatricos. Con este alcoholimetro se realizo con el fin de dar una prediccion a futuro de lo que pasaria si la persona como tal invierte tanto aspectos economicos y salubres en tomar alcohol la mayor parte del tiempo. 
 

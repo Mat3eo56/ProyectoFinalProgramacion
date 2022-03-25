@@ -40,19 +40,19 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 
 [![Resultados-porcentaje.png](https://i.postimg.cc/ZKrgXv2b/Resultados-porcentaje.png)](https://postimg.cc/fJRB9yMp)
 
-En este resultado dado por el sistema, uno se da cuenta dado los valores imprimidos, de la persona que mas toma. 
+Haciendo uso del lenguaj de Phyton se hallo el porcentaje de las personas encuestadas, con el fin de conocer cual de los tres encuestados tomaba mas y que tanto por ciento ocupaba en los datos. 
 
 - Gastos:
 
 [![Resultados-gastos.png](https://i.postimg.cc/1X8CWf6Q/Resultados-gastos.png)](https://postimg.cc/PvkQJf23)
 
-En la segunda parte del programa se calcula el dinero que las personas van a gastar tanto mensul, como anualmente al consumir alcohol en un numero determinado de dias.
+En la segunda parte del programa se reliza un analisis inferencial de los datos, calculando el dinero que las personas gastaran tanto mensual, como anualmente, al consumir alcohol con un numero determinado de dinero por salida, especificado por ellos previamente.
 
 - Grado Alcoholemia:
 
 [![Resultados-sensor-colab.png](https://i.postimg.cc/bNWcjjNg/Resultados-sensor-colab.png)](https://postimg.cc/nC4wvgm9)
 
-Y para la ultima parte del codigo, se muestra los niveles de alcoholemia con los cuales se puede calcular el numero aproximado de bebidas alcoholicas con los cuales hace que se expulse un mensaje el cual dira como moderar el gasto de dinero y salud.
+Y para la ultima parte del codigo, por medio de las dos pruebas de alcoholemia realizada por el alcoholimetro, se muestra los niveles de alcoholemia y con dicho valor se puede calcular el numero aproximado de bebidas alcoholicas para posteriormente expulsar un mensaje el cual arrojara tanto el numero aproximado de bebidas alcoholicas como el grado de alcoholmia y finalmente una advertencia que ayudara a su salud y economia.
 
 # 7.Conclusiones
 1. Lo que se realizo fue un programa que tiene como proposito ayudar en la vida cotidiana de las personas para que tomen con moderacion y se pueda prevenir la muerte en algunos casos para que la persona tome precauciones en base a los datos extraidos del programa.

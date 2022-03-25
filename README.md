@@ -35,6 +35,9 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 - Google Colab(Pandas)
 [![Google-Colab-herramienta.png](https://i.postimg.cc/mkkq0mvK/Google-Colab-herramienta.png)](https://postimg.cc/GT0qDxhj)
 
+- Sensor MQ3:
+[![Whats-App-Image-2022-03-25-at-10-06-06-AM.jpg](https://i.postimg.cc/Ss2VxSrf/Whats-App-Image-2022-03-25-at-10-06-06-AM.jpg)](https://postimg.cc/DJh1CKRS)
+
 # 6.Resultados
 - Promedio y porcentaje :
 

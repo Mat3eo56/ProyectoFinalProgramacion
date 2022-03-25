@@ -36,11 +36,11 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 [![Google-Colab-herramienta.png](https://i.postimg.cc/mkkq0mvK/Google-Colab-herramienta.png)](https://postimg.cc/GT0qDxhj)
 
 # 6.Resultados
-- Promedio:
+- Promedio y porcentaje :
 
 [![Resultados-porcentaje.png](https://i.postimg.cc/ZKrgXv2b/Resultados-porcentaje.png)](https://postimg.cc/fJRB9yMp)
 
-Haciendo uso del lenguaj de Phyton se hallo el porcentaje de las personas encuestadas, con el fin de conocer cual de los tres encuestados tomaba mas y que tanto por ciento ocupaba en los datos. 
+Haciendo uso del lenguaje de Phyton se encontro el promedio de veces que tomaban por semana los encuestados y se hallo el porcentaje de las personas encuestadas, con el fin de conocer cual de los tres encuestados tomaba mas y que tanto por ciento ocupaba en los datos . 
 
 - Gastos:
 

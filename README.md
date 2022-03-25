@@ -29,26 +29,25 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 - Tinkercad (Simulaciones)
 [![Tinkercad-Simulaciones.png](https://i.postimg.cc/qRS5N4Rg/Tinkercad-Simulaciones.png)](https://postimg.cc/bD0TMX1j)
 
-- Tinkercad (Codigo)
-
-[![Tikercad-code1.png](https://i.postimg.cc/DzDgg5KM/Tikercad-code1.png)](https://postimg.cc/SX6CQ6R6)
-
-[![Tikercad-code2.png](https://i.postimg.cc/zBgkPWzX/Tikercad-code2.png)](https://postimg.cc/hzKxXXQH)
 - Arduino (App)
+[![Arduino-herramienta.png](https://i.postimg.cc/gJsb9XnL/Arduino-herramienta.png)](https://postimg.cc/k62pK5N7)
 
 - Google Colab(Pandas)
-
+[![Google-Colab-herramienta.png](https://i.postimg.cc/mkkq0mvK/Google-Colab-herramienta.png)](https://postimg.cc/GT0qDxhj)
 
 # 6.Resultados
 - Promedio:
+[![Resultados-porcentaje.png](https://i.postimg.cc/ZKrgXv2b/Resultados-porcentaje.png)](https://postimg.cc/fJRB9yMp)
 
 En este resultado dado por el sistema, uno se da cuenta dado los valores imprimidos, de la persona que mas toma. 
 
 - Gastos:
+[![Resultados-gastos.png](https://i.postimg.cc/1X8CWf6Q/Resultados-gastos.png)](https://postimg.cc/PvkQJf23)
 
 En la segunda parte del programa se calcula el dinero que las personas van a gastar tanto mensul, como anualmente al consumir alcohol en un numero determinado de dias.
 
 - Grado Alcoholemia:
+[![Resultados-sensor-colab.png](https://i.postimg.cc/bNWcjjNg/Resultados-sensor-colab.png)](https://postimg.cc/nC4wvgm9)
 
 Y para la ultima parte del codigo, se muestra los niveles de alcoholemia con los cuales se puede calcular el numero aproximado de bebidas alcoholicas con los cuales hace que se expulse un mensaje el cual dira como moderar el gasto de dinero y salud.
 

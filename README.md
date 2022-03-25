@@ -57,6 +57,6 @@ Y para la ultima parte del codigo, por medio de las dos pruebas de alcoholemia r
 # 7.Conclusiones
 1. Lo que se realizo fue un programa que tiene como proposito ayudar en la vida cotidiana de las personas para que tomen con moderacion y se pueda prevenir la muerte en algunos casos para que la persona tome precauciones en base a los datos extraidos del programa.
 2. Se logro dar conectividad con google colab cuyo programa se implemento para el desarrollo del codigo de lenguaje python, por medio del cual se realizo el analisis de datos tomas por  el alcoholimetro.
-3. Por medio del conocimiento adquirido durante el semestre, se logro dar una solucion por medio de diversas aplicaciones con un sistema de lenguaje python al problema producido por el consumo excesivo de alcohol, dando solucion tambien a algunos de los 17 OBS (Objetivos de desarrollo sostenible).
+3. Por medio del conocimiento adquirido durante el semestre, se logro dar una solucion por medio de diversas aplicaciones con el lenguaje de programacion python y C++ al problema producido por el consumo excesivo de alcohol, dando solucion tambien a algunos de los 17 OBS (Objetivos de desarrollo sostenible).
 
 

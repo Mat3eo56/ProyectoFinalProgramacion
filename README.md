@@ -40,11 +40,21 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 
 
 # 6.Resultados
+- Promedio:
 
+En este resultado dado por el sistema, uno se da cuenta dado los valores imprimidos, de la persona que mas toma. 
+
+- Gastos:
+
+En la segunda parte del programa se calcula el dinero que las personas van a gastar tanto mensul, como anualmente al consumir alcohol en un numero determinado de dias.
+
+- Grado Alcoholemia:
+
+Y para la ultima parte del codigo, se muestra los niveles de alcoholemia con los cuales se puede calcular el numero aproximado de bebidas alcoholicas con los cuales hace que se expulse un mensaje el cual dira como moderar el gasto de dinero y salud.
 
 # 7.Conclusiones
-1. endishf
-2. wfhjsfj
+1. Lo que se pudo realizar fue un programa que en un futuro, su proposito sera ayudar en la vida cotidiana de las personas para que tomen con moderacion y se pueda prevenir la muerte en algunos casos para que la persona tome precauciones en base a los datos extraidos del programa.
+2. Se logro dar conectividad con google colab cuyo programa se implemento para el desarrollo del codigo de lenguaje python.
 3. Por medio del conocimiento adquirido durante esta parte del semestre, se logro dar una solucion por medio de diversas aplicaciones con un sistema de lenguaje python al problema producido por el consumo excesivo de alcohol.
 
 

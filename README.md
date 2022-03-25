@@ -43,6 +43,8 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 
 
 # 7.Conclusiones
-1. 
+1. endishf
+2. wfhjsfj
+3. Por medio del conocimiento adquirido durante esta parte del semestre, se logro dar una solucion por medio de diversas aplicaciones con un sistema de lenguaje python al problema producido por el consumo excesivo de alcohol.
 
 

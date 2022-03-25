@@ -37,16 +37,19 @@ Este proyecto se hace con el fin de prevenir el aumento excesivo de la taza de m
 
 # 6.Resultados
 - Promedio:
+
 [![Resultados-porcentaje.png](https://i.postimg.cc/ZKrgXv2b/Resultados-porcentaje.png)](https://postimg.cc/fJRB9yMp)
 
 En este resultado dado por el sistema, uno se da cuenta dado los valores imprimidos, de la persona que mas toma. 
 
 - Gastos:
+
 [![Resultados-gastos.png](https://i.postimg.cc/1X8CWf6Q/Resultados-gastos.png)](https://postimg.cc/PvkQJf23)
 
 En la segunda parte del programa se calcula el dinero que las personas van a gastar tanto mensul, como anualmente al consumir alcohol en un numero determinado de dias.
 
 - Grado Alcoholemia:
+
 [![Resultados-sensor-colab.png](https://i.postimg.cc/bNWcjjNg/Resultados-sensor-colab.png)](https://postimg.cc/nC4wvgm9)
 
 Y para la ultima parte del codigo, se muestra los niveles de alcoholemia con los cuales se puede calcular el numero aproximado de bebidas alcoholicas con los cuales hace que se expulse un mensaje el cual dira como moderar el gasto de dinero y salud.

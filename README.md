@@ -19,7 +19,7 @@
 # 1.Introducción
 A lo largo de los años Colombia ha tratado 3 problemáticas relevantes en el país, como lo son la pobreza, salud y hambruna. Dichas problemáticas tienen varios causales, sin embargo, hay uno que tienen los tres en común y son los vicios, entre estos, las bebidas alcohólicas, las cuales influyen directamente en la salud y en el entorno social y económico de la persona.  
 # 2.Descripción del Problema
-Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza y hambruna en el país, así como uno de los principales causantes de los problemas de salud en las personas desde tempranas edades.En Colombia, la taza de mortalidad por beber en exceso es del 1,4% y la gran parte 
+Las bebidas alcohólicas cada vez son más normales en adolescentes y en la vida de las personas, son un alimento más del día a día o de cada fin de semana. El alcoholismo es una de las razones de pobreza,hambruna, violencia y muerte/homicidios en el país , así como uno de los principales causantes de los problemas de salud en las personas.
 # 3. Descripcion del Objetivo de Desarrollo Sostenible
 Se ha evidenciado que un gran porsentaje de personas toma alcohol desde temprana edad y continua tomando, un alcolimetro permite tomar el grado de alcolemia de una persona y con esto llevar un promedio de toma de alcohol en cada persona y llevar un control sobre su salud, su economia y entorno social.
 # 4. Justificacion
@@ -55,8 +55,8 @@ En la segunda parte del programa se calcula el dinero que las personas van a gas
 Y para la ultima parte del codigo, se muestra los niveles de alcoholemia con los cuales se puede calcular el numero aproximado de bebidas alcoholicas con los cuales hace que se expulse un mensaje el cual dira como moderar el gasto de dinero y salud.
 
 # 7.Conclusiones
-1. Lo que se pudo realizar fue un programa que en un futuro, su proposito sera ayudar en la vida cotidiana de las personas para que tomen con moderacion y se pueda prevenir la muerte en algunos casos para que la persona tome precauciones en base a los datos extraidos del programa.
-2. Se logro dar conectividad con google colab cuyo programa se implemento para el desarrollo del codigo de lenguaje python.
-3. Por medio del conocimiento adquirido durante esta parte del semestre, se logro dar una solucion por medio de diversas aplicaciones con un sistema de lenguaje python al problema producido por el consumo excesivo de alcohol.
+1. Lo que se realizo fue un programa que tiene como proposito ayudar en la vida cotidiana de las personas para que tomen con moderacion y se pueda prevenir la muerte en algunos casos para que la persona tome precauciones en base a los datos extraidos del programa.
+2. Se logro dar conectividad con google colab cuyo programa se implemento para el desarrollo del codigo de lenguaje python, por medio del cual se realizo el analisis de datos tomas por  el alcoholimetro.
+3. Por medio del conocimiento adquirido durante el semestre, se logro dar una solucion por medio de diversas aplicaciones con un sistema de lenguaje python al problema producido por el consumo excesivo de alcohol, dando solucion tambien a algunos de los 17 OBS (Objetivos de desarrollo sostenible).
 
 
